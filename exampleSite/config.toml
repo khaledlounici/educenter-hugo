@@ -6,12 +6,12 @@ summaryLength = "10"
 theme = "educenter-hugo"
 title = "École De Foot Delta Lounici "
 [Languages.en]
-contentDir = "content/english"
+contentDir = ""
 copyright = ""
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
-weight = 1
+home = ""
+languageCode = ""
+languageName = ""
+weight = ""
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
